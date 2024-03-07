@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Tildrun's Craft Notes</title>
+<link>https://tildrun.github.io</link>
+<description>Helping you navigate a Horror-touched life</description>
+<language>en-us</language>
+  
+<!--new feed items added directly below this line-->
+<item>
+<title>"Is this Something or did I imagine it?" A guide to Discernment</title>
+<pubDate>Tue 5 Mar 2024</pubDate>
+<description><[!CDATA[Read <a href=" https://tildrun.github.io/#discernment"> this</a> "101 posts" article on discernment and functional insanity in the Dreadful Tradotions]]></description>
+</item>
+
+<item>
+<title>Eldritch narratives and how to find Them</title>
+<pubDate>Thu 29 Feb 2024</pubDate>
+<description><[!CDATA[Read <a href=" https://tildrun.github.io/#eldritchnarratives"> this</a> "101 posts" article on the function of Narrative in Pop Culture Paganism and Constructed Pantheons]]></description>
+</item>
+
+<item>
+<title>In Medias Res, or "no, you're not going to cause an apocalypse"</title>
+<pubDate>Wed 28 Feb 2024</pubDate>
+<description><[!CDATA[Read <a href=" https://tildrun.github.io/#noapocalypse"> this</a> "101 posts" article providing reassurance to the new Dreadful Practitioner]]></description>
+</item>
+</channel>
+</rss>
+
